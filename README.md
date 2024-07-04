@@ -1,6 +1,4 @@
-# Enhanced Representation Learning for Stable, Fast, and Precise Image Categorization
-
-Welcome to the repository for "Enhanced Representation Learning: A Novel Heuristic for More Stable, Fast, and Precise Categorization of Images with Intra-Class Visual Diversity."
+# Enhanced Representation Learning: A Novel Heuristic for More Stable, Fast, and Precise Categorization of Images with Intra-Class Visual Diversity
 
 ## Overview
 
